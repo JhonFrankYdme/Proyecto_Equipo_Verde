@@ -44,7 +44,7 @@ namespace TiendaRopa.Models
         public string Mensaje { get; set; }
 
         [NotMapped]
-        public string Respuesta { get; set; }
+        public string Mensajes { get; set; }
 
     }
 }

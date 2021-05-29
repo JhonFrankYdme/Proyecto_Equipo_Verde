@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "liCchG7AXuwndYXJDHoMFCzoUTFvITTRfWTnlSNjvXapytxLg0Xt5z1pDgEXrbxo4I7WxsDT/szP8OYOTF0j1w==",
+  "dgSpecHash": "I6nFUH3EJnfiUWtbFtkstr4W+1x9pPPUV7PD7v0f292ygGkAJAF8LG9VSFFoDYQQ0FYR8z8EZrZrEJNQhR9Lzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhon\\Documents\\2022\\Proyecto_Equipo_Verde\\TiendaRopa\\TiendaRopa.csproj",
+  "projectFilePath": "C:\\Users\\jhon\\Documents\\PROGRAMACION PROYECTO FINAL\\Ropas2021\\TiendaRopa\\TiendaRopa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhon\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\jhon\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",

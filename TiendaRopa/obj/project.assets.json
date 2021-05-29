@@ -9024,11 +9024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhon\\Documents\\2022\\Proyecto_Equipo_Verde\\TiendaRopa\\TiendaRopa.csproj",
+      "projectUniqueName": "C:\\Users\\jhon\\Documents\\PROGRAMACION PROYECTO FINAL\\Ropas2021\\TiendaRopa\\TiendaRopa.csproj",
       "projectName": "TiendaRopa",
-      "projectPath": "C:\\Users\\jhon\\Documents\\2022\\Proyecto_Equipo_Verde\\TiendaRopa\\TiendaRopa.csproj",
+      "projectPath": "C:\\Users\\jhon\\Documents\\PROGRAMACION PROYECTO FINAL\\Ropas2021\\TiendaRopa\\TiendaRopa.csproj",
       "packagesPath": "C:\\Users\\jhon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhon\\Documents\\2022\\Proyecto_Equipo_Verde\\TiendaRopa\\obj\\",
+      "outputPath": "C:\\Users\\jhon\\Documents\\PROGRAMACION PROYECTO FINAL\\Ropas2021\\TiendaRopa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

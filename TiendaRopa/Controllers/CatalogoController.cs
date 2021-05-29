@@ -25,6 +25,7 @@ namespace TiendaRopa.Controllers
             _context = context;
         }
 
+
         public IActionResult Index()
         {
             var listContactos=_context.Productos.OrderBy(y => y.nombre).OrderBy(x => x.descripcion).ToList();

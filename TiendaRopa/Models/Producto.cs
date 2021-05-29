@@ -47,7 +47,7 @@ namespace TiendaRopa.Models
     [Required(ErrorMessage="Debe ingresar las cantidad del ropa a registrar")]
     [Display(Name="Cantidad del ropa")] 
     [Column("pages")]
-    public int? pagina { get; set; }
+    public int? pages { get; set; }
 
     [Required(ErrorMessage="Debe ingresar la descripcion del ropa a registrar")]
     [Display(Name="Descripcion del ropa")] 

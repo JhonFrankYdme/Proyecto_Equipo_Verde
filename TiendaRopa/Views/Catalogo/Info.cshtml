@@ -1,5 +1,6 @@
 @model TiendaRopa.Models.Producto
 @{
+   
     ViewData["Title"] = "Informacion";
 }
 <br>
@@ -11,7 +12,7 @@
                 <div class="card mb-4">
                     <a asp-area="" asp-controller="Home" asp-action="Info">
                     <img class="card-img-top" 
-                    style="height: 300px; width: 85%; " src="@Model.imagen">
+                    style="height: 410px; width: 100%; " src="@Model.imagen">
                     </a>
                 </div>
             </div>
@@ -27,6 +28,24 @@
                         <p Class="colorForm">DESCRIPCIÓN: @Model.descripcion</p>
                        
                     </li>
+ <li>
+                        <p Class="colorForm">Talla: @Model.talla
+               
+                   
+<select name="Producto">
+
+<option>S</option>
+
+<option>M</option>
+
+<option>L</option>
+<option>XL</option>
+</select>  
+</p>
+            
+
+                    </li>
+
                 </ul>
             </div>
             <div class="col-md-4">

@@ -1,6 +1,6 @@
 @model IEnumerable<TiendaRopa.Models.Contacto>
 
-<h2>Lista Contactos</h2>
+<h2>Asuntos de los  Contactos</h2>
 
 <p>
     <a asp-action="Create">Crear contacto</a>
@@ -38,7 +38,7 @@
     {
         <tr>
             <th scope="row">
-                <a asp-action="Edit" asp-route-id="@item.ID">Editar</a> |
+               
                 <a asp-action="Delete" asp-route-id="@item.ID">Borrar</a>
             </th>
             <td>

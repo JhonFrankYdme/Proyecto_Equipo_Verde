@@ -9,7 +9,7 @@
 <br>
 <div class="section-title">
           <h2 >Ropas Registrados</h2>
-          <p>Visualiza todos los ropas registrados de nuestra tienda de ropas Wiss</p>
+          <p>Visualiza todos los ropas registrados de nuestra tienda de ropas Topitop</p>
 </div>
 <p>
     <button class="btn btn-success"class="btn btn-success" onclick="window.location='@Url.Action("Index", "Producto")'">Registrar</button>
@@ -42,8 +42,8 @@
     {
         <tr class="center">
             <th scope="row">
-                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a>| 
-                <a asp-action="Delete" asp-route-id="@item.ID" id="delete">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.ID">Modificar</a>| 
+                <a asp-action="Delete" asp-route-id="@item.ID" id="delete">Borrar</a>
             </th>
             <td>
                 @Html.DisplayFor(modelItem => item.nombre)
